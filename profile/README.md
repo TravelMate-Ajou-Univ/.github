@@ -51,8 +51,12 @@
 
 ## Figma
 
-<a href="https://www.figma.com/file/rOBWPFvnf1HqG06L5nx8CP/Travel-Mate?type=design&node-id=0%3A1&mode=design&t=sLq1fFlgE60ef4Rv-1" />
+<a href="https://www.figma.com/file/rOBWPFvnf1HqG06L5nx8CP/Travel-Mate?type=design&node-id=0%3A1&mode=design&t=sLq1fFlgE60ef4Rv-1">
+    https://www.figma.com/file/rOBWPFvnf1HqG06L5nx8CP/Travel-Mate?type=design&node-id=0%3A1&mode=design&t=sLq1fFlgE60ef4Rv-1
+</a>
 
 ## Notion
 
-<a href="https://www.notion.so/5daf943678e94187bfd5c05939b8e85d?pvs=4" />
+<a href="https://www.notion.so/5daf943678e94187bfd5c05939b8e85d?pvs=4">
+    https://www.notion.so/5daf943678e94187bfd5c05939b8e85d?pvs=4
+</a>

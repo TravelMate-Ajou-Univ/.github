@@ -43,3 +43,16 @@
 이메일: pwsusc10@ajou.ac.kr
 
 담당업무: FE 개발
+
+## 사용한 프레임워크(FrameWork)
+
+- FE : <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
+- BE : <img src="https://img.shields.io/badge/node.js-339933?style=flat-square&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/mySQL-4479A1?style=flat-square&logo=mySQL&logoColor=white"/>
+
+## Figma
+
+<a href="https://www.figma.com/file/rOBWPFvnf1HqG06L5nx8CP/Travel-Mate?type=design&node-id=0%3A1&mode=design&t=sLq1fFlgE60ef4Rv-1" />
+
+## Notion
+
+<a href="https://www.notion.so/5daf943678e94187bfd5c05939b8e85d?pvs=4" />

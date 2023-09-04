@@ -46,7 +46,7 @@
 
 ## 사용한 프레임워크(FrameWork)
 
-- FE : <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/> <img src="https://img.shields.io/badge/nextdotjs-000000?style=for-the-badge&logo=NEXT.JS&logoColor=white"/>
+- FE : <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/> <img src="https://img.shields.io/badge/NEXT.JS-000000?style=flat-square&logo=NEXT.JS&logoColor=white"/>
 - BE : <img src="https://img.shields.io/badge/node.js-339933?style=flat-square&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/mySQL-4479A1?style=flat-square&logo=mySQL&logoColor=white"/>
 
 ## Figma

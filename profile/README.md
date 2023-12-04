@@ -1,6 +1,4 @@
-# 프로젝트 이름 및 소개
-
-트래블메이트(Travel Mate): 여행을 계획하는 과정에서 보다 편리하게 정보를 얻는데에 도움을 주는 서비스입니다.
+# 트래블메이트(Travel Mate)
 
 ## 팀원 소개
 
@@ -48,15 +46,3 @@
 
 - FE : <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/> <img src="https://img.shields.io/badge/NEXT.JS-000000?style=flat-square&logo=NEXT.JS&logoColor=white"/>
 - BE : <img src="https://img.shields.io/badge/NEST.JS-000000?style=flat-square&logo=NESTJS&logoColor=red"/>  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/> <img src="https://img.shields.io/badge/mongodb-000000?style=flat-square&logo=MONGODB&logoColor=green"/>
-
-## Figma
-
-<a href="https://www.figma.com/file/rOBWPFvnf1HqG06L5nx8CP/Travel-Mate?type=design&node-id=0%3A1&mode=design&t=sLq1fFlgE60ef4Rv-1">
-    https://www.figma.com/file/rOBWPFvnf1HqG06L5nx8CP/Travel-Mate?type=design&node-id=0%3A1&mode=design&t=sLq1fFlgE60ef4Rv-1
-</a>
-
-## Notion
-
-<a href="https://www.notion.so/5daf943678e94187bfd5c05939b8e85d?pvs=4">
-    https://www.notion.so/5daf943678e94187bfd5c05939b8e85d?pvs=4
-</a>

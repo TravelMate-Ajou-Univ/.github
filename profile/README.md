@@ -1,6 +1,6 @@
 # 트래블메이트(Travel Mate)
 
-<a href="https://travelmate-front.vercel.app/" target="_blank" rel="noopener noreferrer"><img src="https://github.com/TravelMate-Ajou-Univ/.github/raw/main/profile/home1.png" width="80%" /></a>
+<a href="https://travelmate-front.vercel.app/" target="_blank" rel="noopener noreferrer"><img src="https://github.com/TravelMate-Ajou-Univ/.github/raw/main/profile/home1.png" width="100%" /></a>
 
 <br />
 
@@ -20,7 +20,7 @@
 
 여행을 계획할 때 사람들은 블로그와 카페를 방문하면서 정보를 모으고 계획을 수립한다. <br />하지만 블로그나 카페 하나만 참고한다면 충분한 정보를 얻지 못한다. <br />그렇기에 사람들은 다양한 정보를 얻기 위해 여러 개의 블로그와 카페를 방문하는 불편함을 감수한다. <br />또한 블로그나 카페에 작성된 댓글도 참고하지만, 모든 댓글을 확인하기 힘들고 본문의 내용에 비해 상대적으로 덜 중요한 정보처럼 보이는 것이 일반적이다. <br />따라서 이러한 문제점을 해결하기 위해 하나의 여행 게시글을 여러 명이 수정할 수 있도록 하고, 하나의 게시물에서 여러 명의 의견을 통합하여 볼 수 있도록 하는 여행 정보 공유 플랫폼을 제작한다.
 
-<img src="https://github.com/TravelMate-Ajou-Univ/.github/blob/main/profile/softconPPT.png?raw=true" width="50%" />
+<img src="https://github.com/TravelMate-Ajou-Univ/.github/blob/main/profile/softconPPT.png?raw=true" width="100%" />
 
 <br />
 

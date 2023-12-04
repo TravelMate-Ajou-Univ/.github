@@ -1,5 +1,7 @@
 # 트래블메이트(Travel Mate)
 
+<img src="./home1.png" />
+
 ## 팀원 소개
 
 ### 김준하

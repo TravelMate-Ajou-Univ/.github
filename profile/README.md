@@ -32,3 +32,7 @@
 |유정호|BE|dbwjdgh03@ajou.ac.kr|
 |조진수|BE|chojs23@ajou.ac.kr|
 |홍성표|FE|pwsusc10@ajou.ac.kr|
+
+## ERD
+
+![image](https://github.com/TravelMate-Ajou-Univ/.github/assets/64683286/bc6b33e4-b07e-4bfd-ab99-084e58dcee72)
